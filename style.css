@@ -175,8 +175,7 @@ span{
     flex-wrap: wrap;
     justify-content: space-evenly;
 
-    background-color: rgb(245, 199, 180);
-    margin-bottom: 10px;
+    background-color: rgb(245, 200, 185);
 }
 
 .box{
@@ -184,6 +183,7 @@ span{
     height:350px;
     background-color: white;
     padding: 20px 0px 15px 0px;
+    margin-top: 15px;
 }
 
 .box-content{
@@ -192,7 +192,8 @@ span{
 }
 
 .box-content a{
-    color:#007185
+    color:#007185;
+    padding-bottom: 1rem;
 }
 
 .heading{
@@ -215,7 +216,7 @@ span{
 .box2-img{
     height: 270px;
     width:25%px;
-    background-image: url("box2.jpg");
+    background-image: url("box2.webp");
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1.5rem;;
@@ -224,19 +225,19 @@ span{
 .box3-img{
     height: 270px;
     width:25%px;
-    background-image: url("box3.jpg");
+    background-image: url("box3.jpeg");
     background-size: cover;
     margin-top: 1rem;
-    margin-bottom: 1.5rem;;
+    margin-bottom: 1.5rem;
 }
 
 .box4-img{
     height: 270px;
     width:25%px;
-    background-image: url("box4.jpg");
+    background-image: url("box4.webp");
     background-size: cover;
     margin-top: 1rem;
-    margin-bottom: 1.5rem;;
+    margin-bottom: 1.5rem;
 }
 
 .box5-img{
@@ -245,7 +246,7 @@ span{
     background-image: url("box5.jpg");
     background-size: cover;
     margin-top: 1rem;
-    margin-bottom: 1.5rem;;
+    margin-bottom: 1.5rem;
 }
 
 .box6-img{
@@ -254,7 +255,7 @@ span{
     background-image: url("box6.jpg");
     background-size: cover;
     margin-top: 1rem;
-    margin-bottom: 1.5rem;;
+    margin-bottom: 1.5rem;
 }
 
 .box7-img{
@@ -263,15 +264,15 @@ span{
     background-image: url("box7.jpg");
     background-size: cover;
     margin-top: 1rem;
-    margin-bottom: 1.5rem;;
+    margin-bottom: 1.5rem;
 }
 
 .box8-img{
     height: 270px;
     width:25%px;
-    background-image: url("box8.jpg");
+    background-image: url("box8.webp");
     background-size: cover;
     margin-top: 1rem;
-    margin-bottom: 1.5rem;;
+    margin-bottom: 1.5rem;
 }
 
