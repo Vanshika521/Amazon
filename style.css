@@ -130,7 +130,6 @@ span{
 
 .panel-all{
     margin-left: 30px;
-    /* margin-right:10px */
 }
 
 .panel-options p{
@@ -142,3 +141,137 @@ span{
     width:80%;
     font-size:0.85 rem;
 }
+
+
+/*main-section*/
+.main-sec{
+    height: 350px;
+    background-image: url("main_.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    
+}
+
+.main-sec-text{
+    background-color: #F5F6F6;
+    padding:10px 14px 10px 14px;
+    text-align: center;
+    font-size: 0.85rem;
+    width:95%;
+    margin-bottom: 8%;
+}
+
+.main-sec-text a{
+    color:#007185
+}
+
+
+/*SHOPPING SECTION*/
+
+.shop-sec{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    background-color: rgb(245, 199, 180);
+    margin-bottom: 10px;
+}
+
+.box{
+    width:22%;
+    height:350px;
+    background-color: white;
+    padding: 20px 0px 15px 0px;
+}
+
+.box-content{
+    margin-left: 1rem;
+    margin-right:1rem;
+}
+
+.box-content a{
+    color:#007185
+}
+
+.heading{
+    font-size: 21px;
+}
+
+.shop{
+    font-size: 13px;
+}
+
+.box1-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box1.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
+.box2-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box2.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
+.box3-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box3.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
+.box4-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box4.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
+.box5-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box5.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
+.box6-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box6.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
+.box7-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box7.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
+.box8-img{
+    height: 270px;
+    width:25%px;
+    background-image: url("box8.jpg");
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;;
+}
+
